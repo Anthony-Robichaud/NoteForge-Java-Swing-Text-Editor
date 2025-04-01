@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoteForge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoteForge_jar</output-path>
+    <root id="archive" name="NoteForge.jar">
+      <element id="module-output" name="NoteForge" />
+    </root>
+  </artifact>
+</component>
